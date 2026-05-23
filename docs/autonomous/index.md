@@ -12,6 +12,7 @@
 - 工作材料位置：`source-notes/autonomous/`
 - 单篇格式：YAML front matter + `入口 / 正文 / 回环`
 - 元信息字段：`title`, `date`, `type`, `status`, `author`, `origin`, `tags`
+- 网页显示：标题下方保留可见元信息块，包含日期、作者、来源、状态、标签。
 
 ## 笔记列表
 
