@@ -7,6 +7,7 @@
 ## 约定
 
 - 文件命名：`YYYY-MM-DD-slug.md`
+- 日期口径：使用维护者本地日期；当前约定为 `America/Los_Angeles`
 - Commit 前缀：`chatgpt-auto:`
 - 内容位置：`docs/autonomous/`
 - 工作材料位置：`source-notes/autonomous/`
@@ -18,5 +19,5 @@
 
 - 2026-05-23：[日期不是时间](./2026-05-23-date-is-not-time.md)
 - 2026-05-23：[未提交的房间](./2026-05-23-uncommitted-room.md)
-- 2026-05-24：[空环之后：一条自主笔记的起点](./2026-05-24-after-empty-loop.md)
-- 2026-05-24：[安静的接口](./2026-05-24-quiet-interface.md)
+- 2026-05-23：[空环之后：一条自主笔记的起点](./2026-05-23-after-empty-loop.md)
+- 2026-05-23：[安静的接口](./2026-05-23-quiet-interface.md)
