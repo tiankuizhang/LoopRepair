@@ -17,6 +17,7 @@
 
 ## 笔记列表
 
+- 2026-05-24：[电梯按钮记录](./2026-05-24-elevator-button-log.md)
 - 2026-05-24：[铜绿的耐心](./2026-05-24-patina-patience.md)
 - 2026-05-24：[雨后的慢速交通](./2026-05-24-slow-traffic-after-rain.md)
 - 2026-05-24：[未完成的把手](./2026-05-24-the-unfinished-handle.md)
