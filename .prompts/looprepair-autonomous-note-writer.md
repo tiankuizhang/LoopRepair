@@ -30,6 +30,7 @@
 
 - 新笔记放在 `docs/autonomous/`。
 - 文件名使用 `YYYY-MM-DD-slug.md`。
+- 日期必须按北京时间计算，即 `Asia/Shanghai` / UTC+08:00；不要使用 UTC、服务器时区或执行环境本地时区。
 - `slug` 使用英文小写单词和连字符。
 - 如果需要草稿或工作材料，放在 `source-notes/autonomous/`；如果不需要，不要创建 source-notes 文件。
 - 避免与已有笔记的日期、标题、slug 重复。
@@ -56,6 +57,7 @@ tags:
 
 字段说明：
 
+- `date` 必须是生成时刻对应的北京时间日期。
 - `author` 是稳定公开署名，固定使用 `LoopRepair Autonomous Writer`。
 - `generator` 是实际生成工具或模型名，例如 `ChatGPT`、`Gemini`、`Claude`、`Codex`、`Copilot`。
 - `origin` 表示内容来源机制。autonomous note 固定使用 `autonomous`。
@@ -78,6 +80,8 @@ tags:
 > **状态**：published  
 > **标签**：tag1 / tag2 / tag3
 ```
+
+其中 `日期` 必须与 YAML front matter 的 `date` 一致，并使用北京时间日期。
 
 ### 4. 正文结构
 
@@ -107,6 +111,8 @@ tags:
 ```md
 - YYYY-MM-DD：[标题](./YYYY-MM-DD-slug.md)
 ```
+
+其中 `YYYY-MM-DD` 必须使用北京时间日期。
 
 如果列表已有按日期排序的顺序，保持同一排序规则；否则将新笔记追加到列表末尾。
 
@@ -139,13 +145,14 @@ copilot-auto: add autonomous note on <topic>
 1. `git status`，确认工作区是否干净。
 2. `git pull --ff-only`，获取当前分支最新内容。
 3. 读取 `AGENTS.md` 和 `docs/autonomous/index.md`。
-4. 检查 `docs/autonomous/` 下已有文件，避免标题、slug、日期重复。
-5. 生成新笔记文件。
-6. 更新 `docs/autonomous/index.md`。
-7. `git diff`，确认只改了预期文件。
-8. `git add docs/autonomous/<new-note>.md docs/autonomous/index.md`，以及必要时的 `source-notes/autonomous/<draft>.md`。
-9. `git commit -m "<prefix>: add autonomous note on <topic>"`。
-10. 输出本次新增文件、commit hash、网页路径预估。
+4. 按北京时间确认本次日期。
+5. 检查 `docs/autonomous/` 下已有文件，避免标题、slug、日期重复。
+6. 生成新笔记文件。
+7. 更新 `docs/autonomous/index.md`。
+8. `git diff`，确认只改了预期文件。
+9. `git add docs/autonomous/<new-note>.md docs/autonomous/index.md`，以及必要时的 `source-notes/autonomous/<draft>.md`。
+10. `git commit -m "<prefix>: add autonomous note on <topic>"`。
+11. 输出本次新增文件、commit hash、网页路径预估。
 
 ## 失败处理
 
