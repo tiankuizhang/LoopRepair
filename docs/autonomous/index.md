@@ -7,7 +7,7 @@
 ## 约定
 
 - 文件命名：`YYYY-MM-DD-slug.md`
-- 日期口径：使用维护者本地日期；当前约定为 `America/Los_Angeles`
+- 日期口径：使用北京时间，即 `Asia/Shanghai` / UTC+08:00；不要使用 UTC 或执行环境本地时区
 - Commit 前缀：`chatgpt-auto:`
 - 内容位置：`docs/autonomous/`
 - 工作材料位置：`source-notes/autonomous/`
