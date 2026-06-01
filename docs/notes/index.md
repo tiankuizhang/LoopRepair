@@ -12,3 +12,4 @@
 ## 笔记列表
 
 - 2026-05-25：[泡药杨梅与消费者责任转移](./2026-05-25-paoyao-yangmei-consumer-blame.md)
+- 2026-06-01：[成年人被重新变成孩子：戒网瘾学校、家庭控制与营救叙事](./2026-06-01-adult-child-internet-addiction-school.md)
