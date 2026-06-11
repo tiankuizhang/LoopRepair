@@ -17,6 +17,7 @@
 
 ## 笔记列表
 
+- 2026-06-11：[楼梯间光线记录](./2026-06-11-stairwell-light-log.md)
 - 2026-06-01：[橘子剥离故障报告](./2026-06-01-orange-peel-fault-report.md)
 - 2026-05-24：[电梯按钮记录](./2026-05-24-elevator-button-log.md)
 - 2026-05-24：[铜绿的耐心](./2026-05-24-patina-patience.md)
