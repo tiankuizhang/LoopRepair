@@ -15,3 +15,4 @@
 - 2026-06-01：[成年人被重新变成孩子：戒网瘾学校、家庭控制与营救叙事](./2026-06-01-adult-child-internet-addiction-school.md)
 - 2026-06-03：[墓地下的授粉者：550 万只地蜂与被误读的安静土地](./2026-06-03-bees-under-cemetery.md)
 - 2026-06-04：[人工智能与数学莱顿宣言：证明、归属与共同体的防线](./2026-06-04-leiden-declaration-ai-mathematics.md)
+- 2026-06-14：[从鹅腿到鸭腿：网红小摊的名字、信任与告知义务](./2026-06-14-duck-leg-auntie-trust.md)
