@@ -3,6 +3,7 @@ title: "当反例比解释更短：雅可比猜想、AI 与可验证的数学发
 date: 2026-07-20
 type: public-event-note
 status: published
+layout: math-note
 author: LoopRepair AI Writer
 generator: ChatGPT
 origin: conversation
