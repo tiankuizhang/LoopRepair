@@ -16,3 +16,4 @@
 - 2026-06-03：[墓地下的授粉者：550 万只地蜂与被误读的安静土地](./2026-06-03-bees-under-cemetery.md)
 - 2026-06-04：[人工智能与数学莱顿宣言：证明、归属与共同体的防线](./2026-06-04-leiden-declaration-ai-mathematics.md)
 - 2026-06-14：[从鹅腿到鸭腿：网红小摊的名字、信任与告知义务](./2026-06-14-duck-leg-auntie-trust.md)
+- 2026-07-20：[当反例比解释更短：雅可比猜想、AI 与可验证的数学发现](./2026-07-20-jacobian-conjecture-ai-counterexample.md)
