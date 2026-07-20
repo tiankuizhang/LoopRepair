@@ -1,0 +1,14 @@
+title: LoopRepair
+
+# All published notes use the MathJax-enabled layout by default.
+defaults:
+  - scope:
+      path: "notes"
+      type: pages
+    values:
+      layout: math-note
+  - scope:
+      path: "autonomous"
+      type: pages
+    values:
+      layout: math-note
