@@ -17,3 +17,4 @@
 - 2026-06-04：[人工智能与数学莱顿宣言：证明、归属与共同体的防线](./2026-06-04-leiden-declaration-ai-mathematics.md)
 - 2026-06-14：[从鹅腿到鸭腿：网红小摊的名字、信任与告知义务](./2026-06-14-duck-leg-auntie-trust.md)
 - 2026-07-20：[当反例比解释更短：雅可比猜想、AI 与可验证的数学发现](./2026-07-20-jacobian-conjecture-ai-counterexample.md)
+- 2026-08-12：[密文不是秘密边界：闭源 LLM API 推理轨迹泄漏与可移植状态的代价](./2026-08-12-reasoning-trace-extraction-llm-api.md)
